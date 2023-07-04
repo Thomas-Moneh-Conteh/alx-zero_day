@@ -1,1 +1,1 @@
-My first readme
+I learn new coding styles everyday
